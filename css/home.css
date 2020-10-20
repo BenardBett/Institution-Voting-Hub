@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: aliceblue
+}
+
+footer{
+background-color: darkslategray;
+padding: 30px;
+}
+
+
+.navbar.navbar-default {
+	border-width: 0px;
+	border-radius: 0px;
+	background-color: #F5F3EE;
+	margin-top: 20px;
+}
+#wrap {
+	padding-left: 1px;
+	padding-right: 1px;
+}
+ 
+#art{
+    color: inherit;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#contacts{
+	background-image: url("../img/images/contact.jpg");
+	text-align: center;
+	background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+  
+    
+}

@@ -4,31 +4,42 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/css/styles.css">
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
     <title>Document</title>
 </head>
 
 <body>
-    <label for=""><b>Name</b></label>
-    <input type="text" placeholder="Enter your name" name="Name" id="name" required>
-
-    <label for="email"><b>Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
-
-    <label for="psw"><b>Enter your location</b></label>
-    <input type="password" placeholder="Enter location" name="psw" id="psw" required>
-
-    <form><label for="psw-repeat"><b>Choose a Password</b></label>
-        <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
-
-        <label for="psw-repeat"><b>Confirm Password</b></label>
-        <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
-        <hr>
-        <button type="submit" class="registerbtn">Register</button>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="slim">
+                <div container>
+                    <form> <label for=""><b>Name</b></label>
+                        <input type="text" placeholder="Enter your name" name="Name" id="name" required>
+                        <br>
+                        <br>
+                        <label for="email"><b>Email</b></label>
+                        <input type="text" placeholder="Enter Email" name="email" id="email" required>
+                        <br>
+                        <br> <label for="text"><b>Enter your location</b></label>
+                        <input type="text" placeholder="Enter location" name="" id="" required>
+                        <br>
+                        <br>
+                        <label for="psw-repeat"><b>Choose a Password</b></label>
+                        <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+                        <br>
+                        <br> <label for="psw-repeat"><b>Confirm Password</b></label>
+                        <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+                        <br>
+                        <br>
+                        <button type="submit" class="registerbtn">Register</button>
+                </div>
+            </div>
         </div>
-
-        <div class="container signin">
-            <p>Already have an account? <a href="signin.html">Sign in</a></p>
-        </div>
+    </div>
+    <div class="container signin">
+        <p>Already have an account? <a href="signin.html">Sign in</a></p>
+    </div>
     </form>
 
 </body>

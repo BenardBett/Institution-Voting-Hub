@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+
+  
+=======
 var modal = document.getElementById('id01');
 
 
@@ -13,3 +17,4 @@ function ben(){
          
      }
 }
+>>>>>>> 5e5f4af3ab5e3a6ebcdfd88ae61e1adecc6885d0

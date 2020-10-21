@@ -1,4 +1,4 @@
-var modal = document.getElementById('loginpage');
+var modal = document.getElementById('id01');
 
 
 window.onclick = function(event) {
@@ -8,9 +8,9 @@ window.onclick = function(event) {
 }
 
 function ben(){
-    alert("hello")
+    alert("You have successfully login.You can now proceed to vote.")
      if(id01.target === submit) {
-       return pwd
+       
         
     }
 }

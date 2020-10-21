@@ -10,7 +10,6 @@ window.onclick = function(event) {
 function ben(){
     alert("You have successfully login.You can now proceed to vote.")
      if(id01.target === submit) {
-       
-        
-    }
+         
+     }
 }

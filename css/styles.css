@@ -60,3 +60,15 @@ a {
     display: none;
     color: black;
 }
+
+footer{
+    background-color: darkslategray;
+    padding: 30px;
+    }
+    
+    	
+	.click{
+        text-align: center;
+        color: blueviolet;
+	}
+	

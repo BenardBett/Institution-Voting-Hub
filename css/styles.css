@@ -3,6 +3,8 @@
     text-align: left;
     margin-left: 500px;
     justify-content: space-between;
+    padding-top: 100px;
 }
-
-{}
+.wap{
+    display:none ;
+}

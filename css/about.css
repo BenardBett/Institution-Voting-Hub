@@ -98,3 +98,14 @@
 		max-width: 100%;
 	}
 }
+
+footer{
+	background-color: darkslategray;
+	padding: 30px;
+	}
+	
+	.click{
+		text-align: center;
+		color: #1F76ED;
+	}
+	

@@ -29,10 +29,11 @@ _Feel free to email me us [benardakaka484@gmail](com) if you run into any issues
 * JavaScript _(jQuery)_
 * Boostrap
 
-Copyright (c) 2018 
+Copyright (c) 2020 
  _**Benard Akaka**
  _**Kiplangat Bett*
   _**Francis Mbugua*
+  _**Ivan Kibet*
 _**Towett Enock*
 __
 
